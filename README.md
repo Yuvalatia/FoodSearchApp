@@ -1,3 +1,3 @@
 HI THERE
 
-my first react native app :)
+Here is my first app using react-native.
